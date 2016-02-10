@@ -1,0 +1,65 @@
+Protocolo Pendientes
+
+*Significa que falta 
+/Significa que esta incompleto
+#Significa que tenemos la idea
+&Significa que esta hecho(segun nosotros)
+
+Presentacion - &
+
+Resumen - &
+
+Abstrac*
+
+Palabras Clave * /
+
+Objetivos del proyecto
+	General - &
+	Especificos - /
+
+Justificacion * / 
+ 
+Antecedentes*
+	
+	1. SIGM - Joel
+		Sistema de georeferencia(incluir la tenologia que se utiliza)
+		*Formatos de sermarnat
+	2. Geolocalizacion(tolo lo que trata) - Cela
+		Sistemas de coordenadas geograficas
+		Sistema UTM
+		Sistema Gauss-Kruger
+		Geolocalizacion GPS
+		fotografia 
+	3. Aplicaciones moviles* - Joel
+	4. Sistema embebido - Cela
+	5. Comparacion de aplicaciones existentes*
+
+Descripcion del proyeto - * 
+
+Metodología de trabajo -* 
+Productos o resultados esperados -* 
+Viabilidad del proyecto - *
+	- Recursos humanos
+	- Equipo e instalaciones necesarias
+	- Costo estimado
+	- Cronograma de actividades
+
+Fuentes del consulta - /
+Firmas - *
+Curriculum vitae - / 
+	- Profe Sandra - &	
+	- Profe Fernando - &
+	- Profe Mario*
+	
+
+
+
+Metodologias entre las que estamos son 
+	- Metodologia V
+	- Metodologia XP
+
+
+
+
+
+viernes a las 11:30

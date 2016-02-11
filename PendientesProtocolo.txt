@@ -7,14 +7,14 @@ Protocolo Pendientes
 
 Presentacion - &
 
-Resumen - &
+Resumen - &/*
 
 Abstrac*
 
 Palabras Clave * /
 
 Objetivos del proyecto
-	General - &
+	General - &/*
 	Especificos - /
 
 Justificacion * / 
@@ -24,7 +24,7 @@ Antecedentes*
 	1. SIGM - Joel
 		Sistema de georeferencia(incluir la tenologia que se utiliza)
 		*Formatos de sermarnat
-	2. Geolocalizacion(tolo lo que trata) - Cela
+	2. Georrwfwewnciacion(tolo lo que trata) - Cela
 		Sistemas de coordenadas geograficas
 		Sistema UTM
 		Sistema Gauss-Kruger
